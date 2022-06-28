@@ -1,0 +1,11 @@
+{
+  "name": "webserver_intermediario",
+  "version": "1.0.0",
+  "description": "Evoluindo um servidor web com hospedagem de site simples com resposta do servidor no sucesso ou erro ao usuario",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wendel tadeu",
+  "license": "ISC"
+}
